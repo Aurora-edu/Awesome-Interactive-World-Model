@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="data/logo.png" width="50" style="vertical-align:middle;margin-right:10px;"> Awesome Interactive World Model
-</h1>
+<h1><img src="data/logo.png" alt="icon" style="width:52px;height:52px;vertical-align:middle;margin-right:10px;">Awesome Interactive World Model</h1>
 
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
