@@ -5,14 +5,6 @@
 **📜 A curated collection of Interactive World Model papers, systematically categorized by key research problems.** </br>
 </div>
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <td align="center" style="border:none;">🌟 <b>Classic</b></td>
-    <td align="center" style="border:none;">✅ <b>Open Source</b></td>
-    <td align="center" style="border:none;">❌️ <b>Not Open Source</b></td>
-  </tr>
-</table>
-
 ## 🚩 News & Updates
 _Major updates and announcements are shown below. Scroll for full timeline._
 
@@ -37,7 +29,13 @@ _Major updates and announcements are shown below. Scroll for full timeline._
   - 📝 [Citation](#citation)
 
 ---
-
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+    <td align="center" style="border:none;">🌟 <b>Classic</b></td>
+    <td align="center" style="border:none;">✅ <b>Open Source</b></td>
+    <td align="center" style="border:none;">❌️ <b>Not Open Source</b></td>
+  </tr>
+</table>
 ## General World Model
 
 ✅🌟(Minute-level Memory)[Lingbot-World:Advancing Open-source World Models](https://arxiv.org/abs/2601.20540)
