@@ -1,21 +1,43 @@
 # 🤝 Contributing
-We welcome suggestions/ paper updates/ contributions of any kind (and please do that lol)! Feel free to *open issues* or *create pull requests*. <br> 
+
+We welcome paper updates, link fixes, category improvements, and documentation contributions. Please open an issue or pull request if you would like to help keep this list accurate and useful.
 
 ## 🚀 Adding New Papers
-While contribution comes in many kinds, one common contribution use case is by adding new papers to the existing list. In this case, modify the README.md and follow the format with logos/badges:
 
+When adding a paper, update `README.md` and place the entry in the most relevant section. If a paper fits multiple sections, choose the section that best matches its main contribution.
 
-* [Title](LINK)
-
-The ordering of papers is recommended to be chronological: _older papers should come first, and new papers should be added at the end of the relevant section_.
-
-
-### 🦮 Recommended Guidelines:
-- If possible, use arXiv links rather than custom links at other servers, and link to the *abstract* not PDF
-- Include available resources
-
-### 🧵 Examples
+The recommended paper format is:
 
 ```markdown
-✅[MIND: Benchmarking Memory Consistency and Action Control in World Models](https://arxiv.org/abs/2602.08025)
+✅[Paper Title](https://arxiv.org/abs/xxxx.xxxxx)
 ```
+
+Use short notes only when they help readers understand why the work is important:
+
+```markdown
+✅🌟(Short note)[Paper Title](https://arxiv.org/abs/xxxx.xxxxx)
+```
+
+## 🧭 Guidelines
+
+- Prefer arXiv abstract links over PDF links when available.
+- Use official project pages, code repositories, or dataset pages when no arXiv link is available.
+- Add new papers to the end of the relevant section unless the section already follows a different ordering rule.
+- Check for duplicate entries before submitting.
+- Keep descriptions concise and consistent with the existing style.
+
+## 🏷️ Badges
+
+- `🌟` marks representative or category-defining work.
+- `✅` indicates that public resources such as code, data, model weights, demos, or an official project page are available.
+- `❌️` indicates that no public implementation or resource has been found yet.
+
+## ✅ Pull Request Checklist
+
+Before opening a pull request, please check that:
+
+- The paper is placed in the most relevant section.
+- The link points to an arXiv abstract, official project page, or public repository.
+- The entry follows the README format.
+- The badge status is correct.
+- The paper is not already listed.
