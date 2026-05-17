@@ -36,6 +36,7 @@ _Major updates and announcements are shown below. Scroll for full timeline._
     <td align="center" style="border:none;">❌️ <b>Not Open Source</b></td>
   </tr>
 </table>
+
 ## General World Model
 
 ✅🌟(Minute-level Memory)[Lingbot-World:Advancing Open-source World Models](https://arxiv.org/abs/2601.20540)
