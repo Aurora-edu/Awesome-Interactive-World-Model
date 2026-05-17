@@ -25,8 +25,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
   - 🎮 [Action Control](#action-control)
   - 🖱️ [Interactive](#interactive)
   - 🔧 [Post-Training](#post-training)
-  - ⚙️ [Physic](#physic)
-  - 📏 [Evaluation](#evalution)
+  - ⚙️ [Physics](#physics)
+  - 📏 [Evaluation](#evaluation)
   - 📝 [Citation](#citation)
 
 ---
@@ -208,10 +208,10 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 
 
-## Physic
+## Physics
 ✅[RealWonder: Real-Time Physical Action-Conditioned Video Generation](https://arxiv.org/abs/2603.05449)
 
-## Evalution
+## Evaluation
 ✅[Interactive World Simulator for Robot Policy Training and Evaluation](https://arxiv.org/abs/2603.08546)
 
 ## Others

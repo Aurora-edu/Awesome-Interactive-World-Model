@@ -2,7 +2,7 @@
 We welcome suggestions/ paper updates/ contributions of any kind (and please do that lol)! Feel free to *open issues* or *create pull requests*. <br> 
 
 ## 🚀 Adding New Papers
-While contribution comes in many kinds, one common contribution use case is by adding new papers to the exisiting list. In this case, modify the README.md and follow the format with logos/badges:
+While contribution comes in many kinds, one common contribution use case is by adding new papers to the existing list. In this case, modify the README.md and follow the format with logos/badges:
 
 
 * [Title](LINK)
