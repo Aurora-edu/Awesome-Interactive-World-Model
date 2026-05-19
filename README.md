@@ -153,7 +153,7 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 ✅[Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion](https://arxiv.org/html/2603.13405v1)
 
-
+✅[LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://arxiv.org/abs/2605.18739)
 
 ## Memory Consistency
 
@@ -203,6 +203,7 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 ❌️🌟(Action control from games)[GameFactory: Creating New Games with Generative Interactive Videos](https://arxiv.org/abs/2501.08325)
 
+✅[ReactiveGWM: Steering NPC in Reactive Game World Models](https://arxiv.org/abs/2605.15256)
 
 ## Interactive
 
