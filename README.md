@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="data/logo.png" width="50" style="vertical-align:middle;"> Awesome Interactive World Models
+<img src="data/title.png">
 
 **📜 Interactive World Model papers organized by core research challenges.** </br>
 👉 **Recommended: View the [paper list on our website](https://easontut.github.io/Awesome-Interactive-World-Model/) for a better browsing experience.**
