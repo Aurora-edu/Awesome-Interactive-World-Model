@@ -47,44 +47,46 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 [2025-08] ✅🌟(First open-source real-time interactive World Model)[Matrix-game 2.0: An open-source real-time and streaming interactive world model](https://arxiv.org/abs/2508.13009)
 
-[2025-06] ✅[Matrix-Game: Interactive World Foundation Model](https://arxiv.org/abs/2506.18701)
-
-[2025-08] ❌️[Yan: Foundational Interactive Video Generation](https://arxiv.org/abs/2508.08601)
-
-[2024-02] ❌️[Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391)
-
-[2025-12] ✅[Yume-1.5: A Text-Controlled Interactive World Generation Model](https://arxiv.org/abs/2512.22096)
-
-[2025-07] ✅[Yume: An Interactive World Generation Model](https://arxiv.org/abs/2507.17744)
-
-[2025-12] ❌️[RELIC: Interactive Video World Model with Long-Horizon Memory](https://arxiv.org/abs/2512.04040)
-
-[2025-11] ❌️[Hunyuan-GameCraft-2: Instruction-following Interactive Game World Model](https://arxiv.org/abs/2511.23429)
-
-[2025-06] ✅[Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition](https://arxiv.org/abs/2506.17201)
-
-✅[HY-World 1.5: A Systematic Framework for Interactive World Modeling with Real-Time Latency and Geometric Consistency](https://3d-models.hunyuan.tencent.com/world/world1_5/HYWorld_1.5_Tech_Report.pdf)
-
-[2025-12] ✅[Astra: General Interactive World Model with Autoregressive Denoising](https://arxiv.org/abs/2512.08931)
-
-[2025-11] ❌️[PAN: A World Model for General, Interactable, and Long-Horizon World Simulation](https://arxiv.org/abs/2511.09057)
-
 [2026-05] ✅[SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer](https://arxiv.org/abs/2605.15178)
+
+[2026-05] ✅[Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video](https://arxiv.org/abs/2605.15182)
 
 [2026-04] ✅[Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory](https://arxiv.org/abs/2604.08995)
 
 [2026-03] ✅[InSpatio-WorldFM: An Open-Source Real-Time Generative Frame Model](https://arxiv.org/abs/2603.11911)
 
-✅[DreamX-World: A General-Purpose Interactive World Model](https://github.com/AMAP-ML/DreamX-World)
+[2025-12] ✅[Yume-1.5: A Text-Controlled Interactive World Generation Model](https://arxiv.org/abs/2512.22096)
 
-[2026-05] ✅[Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video](https://arxiv.org/abs/2605.15182)
+[2025-12] ❌️[RELIC: Interactive Video World Model with Long-Horizon Memory](https://arxiv.org/abs/2512.04040)
+
+[2025-12] ✅[Astra: General Interactive World Model with Autoregressive Denoising](https://arxiv.org/abs/2512.08931)
+
+[2025-11] ❌️[Hunyuan-GameCraft-2: Instruction-following Interactive Game World Model](https://arxiv.org/abs/2511.23429)
+
+[2025-11] ❌️[PAN: A World Model for General, Interactable, and Long-Horizon World Simulation](https://arxiv.org/abs/2511.09057)
 
 [2025-11] ✅[MagicWorld: Towards Long-Horizon Stability for Interactive Video World Exploration](https://arxiv.org/abs/2511.18886)
+
+[2025-08] ❌️[Yan: Foundational Interactive Video Generation](https://arxiv.org/abs/2508.08601)
+
+[2025-07] ✅[Yume: An Interactive World Generation Model](https://arxiv.org/abs/2507.17744)
+
+[2025-06] ✅[Matrix-Game: Interactive World Foundation Model](https://arxiv.org/abs/2506.18701)
+
+[2025-06] ✅[Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition](https://arxiv.org/abs/2506.17201)
+
+[2024-02] ❌️[Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391)
+
+✅[HY-World 1.5: A Systematic Framework for Interactive World Modeling with Real-Time Latency and Geometric Consistency](https://3d-models.hunyuan.tencent.com/world/world1_5/HYWorld_1.5_Tech_Report.pdf)
+
+✅[DreamX-World: A General-Purpose Interactive World Model](https://github.com/AMAP-ML/DreamX-World)
 
 
 ## Benchmark
 
 [2026-02] ✅🌟(First Open Domain Memory & Action Benchmark)[MIND: Benchmarking Memory Consistency and Action Control in World Models](https://arxiv.org/abs/2602.08025)
+
+[2025-05] ✅[Toward Memory-Aided World Models: Benchmarking via Spatial Consistency](https://arxiv.org/abs/2505.22976)
 
 [2025-04] ✅[WorldScore: A Unified Evaluation Benchmark for World Generation](https://arxiv.org/abs/2504.00983)
 
@@ -92,18 +94,16 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 [2024-10] ✅[WorldSimBench: Towards Video Generation Models as World Simulators](https://arxiv.org/abs/2410.18072)
 
-[2025-05] ✅[Toward Memory-Aided World Models: Benchmarking via Spatial Consistency](https://arxiv.org/abs/2505.22976)
-
 
 ## Dataset
 
-[2025-06] ✅ [Sekai: A Video Dataset towards World Exploration](https://arxiv.org/abs/2506.15675)
+[2026-03] ✅ [WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG](https://arxiv.org/abs/2603.23497)
 
 [2025-09] ✅ [SpatialVID: A Large-Scale Video Dataset with Spatial Annotations](https://arxiv.org/abs/2509.09676)
 
-[2026-03] ✅ [WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG](https://arxiv.org/abs/2603.23497)
-
 [2025-09] ✅ [OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling](https://arxiv.org/abs/2509.12201)
+
+[2025-06] ✅ [Sekai: A Video Dataset towards World Exploration](https://arxiv.org/abs/2506.15675)
 
 [2024-11] ✅ [GameGen-X: Open-World Video Game Dataset](https://arxiv.org/abs/2411.00769)
 
@@ -112,29 +112,29 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 [2026-02] ✅🌟(ODE perspective)[Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation](https://arxiv.org/abs/2602.02214)
 
+[2025-12] ❌️🌟(Compression recovery training)[Pretraining Frame Preservation in Autoregressive Video Memory Compression](https://arxiv.org/abs/2512.23851)
+
 [2025-10] ❌️🌟(Solves Self-Forcing issues)[Self-Forcing++: Towards Minute-Scale High-Quality Video Generation](https://arxiv.org/abs/2510.02283)
-
-[2025-06] ✅🌟(DMD perspective)[Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion](https://arxiv.org/abs/2506.08009)
-
-[2024-07] ✅🌟(Training techniques)[Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/abs/2407.01392)
-
-[2024-12] ✅🌟(Teacher->Student acceleration)[From Slow Bidirectional to Fast Autoregressive Video Diffusion Models](https://arxiv.org/abs/2412.07772v4)
-
-[2025-04] ✅🌟(Context compression)[Frame Context Packing and Drift Prevention in Next-Frame-Prediction Video Diffusion Models](https://arxiv.org/abs/2504.12626)
 
 [2025-08] ❌️🌟(Learnable sparse attention routing)[Mixture of Contexts for Long Video Generation](https://arxiv.org/abs/2508.21058)
 
-[2025-12] ❌️🌟(Compression recovery training)[Pretraining Frame Preservation in Autoregressive Video Memory Compression](https://arxiv.org/abs/2512.23851)
+[2025-06] ✅🌟(DMD perspective)[Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion](https://arxiv.org/abs/2506.08009)
+
+[2025-04] ✅🌟(Context compression)[Frame Context Packing and Drift Prevention in Next-Frame-Prediction Video Diffusion Models](https://arxiv.org/abs/2504.12626)
+
+[2024-12] ✅🌟(Teacher->Student acceleration)[From Slow Bidirectional to Fast Autoregressive Video Diffusion Models](https://arxiv.org/abs/2412.07772v4)
+
+[2024-07] ✅🌟(Training techniques)[Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/abs/2407.01392)
+
+[2026-05] ✅ [Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation](https://arxiv.org/abs/2605.15141)
+
+[2026-05] ✅[LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://arxiv.org/abs/2605.18739)
+
+[2026-03] ✅[Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion](https://arxiv.org/html/2603.13405v1)
 
 [2026-02] ✅[Context Forcing: Consistent Autoregressive Video Generation with Long Context](https://arxiv.org/abs/2602.06028)
 
-[2025-12] ✅[Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation](https://arxiv.org/abs/2512.04678)
-
 [2026-02] ✅[Latent Forcing: Reordering the Diffusion Trajectory for Pixel-Space Image Generation](https://arxiv.org/abs/2602.11401)
-
-[2025-03] ✅[FAR: Frame Autoregressive Model for Both Short- and Long-Context Video Modeling](https://arxiv.org/abs/2503.19325)
-
-[2025-09] ✅[Rolling Forcing: Autoregressive Long Video Diffusion in Real Time](https://arxiv.org/abs/2509.25161)
 
 [2026-02] ❌️[Mode Seeking meets Mean Seeking for Fast Long Video Generation](https://arxiv.org/abs/2602.24289)
 
@@ -144,57 +144,57 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 [2026-02] ❌️[LIGHT FORCING: Accelerating Autoregressive Video Diffusion via Sparse Attention](https://arxiv.org/abs/2602.04789)
 
-[2026-05] ✅ [Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation](https://arxiv.org/abs/2605.15141)
+[2026-02] ✅[Pathwise Test-Time Correction for Autoregressive Long Video Diffusion Models](https://arxiv.org/abs/2602.05871)
+
+[2025-12] ✅[Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation](https://arxiv.org/abs/2512.04678)
 
 [2025-12] ✅[VideoSSM: Autoregressive Long Video Generation with Hybrid State Space Memory](https://arxiv.org/abs/2512.04519)
 
-[2026-02] ✅[Pathwise Test-Time Correction for Autoregressive Long Video Diffusion Models](https://arxiv.org/abs/2602.05871)
-
-[2024-10] ✅[Progressive Autoregressive Video Diffusion Models](https://arxiv.org/abs/2410.08151)
+[2025-09] ✅[Rolling Forcing: Autoregressive Long Video Diffusion in Real Time](https://arxiv.org/abs/2509.25161)
 
 [2025-09] ✅[LongLive: Real-time Interactive Long Video Generation](https://arxiv.org/abs/2509.22622)
 
+[2025-03] ✅[FAR: Frame Autoregressive Model for Both Short- and Long-Context Video Modeling](https://arxiv.org/abs/2503.19325)
+
 [2025-03] ✅[NOVA: Autoregressive Video Generation without Vector Quantization](https://arxiv.org/abs/2503.18723)
 
-[2026-03] ✅[Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion](https://arxiv.org/html/2603.13405v1)
-
-[2026-05] ✅[LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://arxiv.org/abs/2605.18739)
+[2024-10] ✅[Progressive Autoregressive Video Diffusion Models](https://arxiv.org/abs/2410.08151)
 
 ## Memory Consistency
 
 *   ### Static Memory
     
 
+[2026-02] ✅🌟(w/o Pose Memory)[Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory](https://arxiv.org/abs/2602.02393)
+
 [2025-06] ❌️🌟(w/ Pose FOV overlap retrieval Memory)[Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](https://arxiv.org/abs/2506.03141)
+
+[2026-03] ❌️[MosaicMem: Hybrid Spatial Memory for Controllable Video World Models](https://arxiv.org/abs/2603.17117)
+
+[2026-02] ✅[AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories](https://arxiv.org/abs/2602.14941)
+
+[2026-01] ✅[StableWorld: Towards Stable and Consistent Long Interactive Video Generation](https://arxiv.org/abs/2601.15281)
+
+[2025-10] ❌️[Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft](https://arxiv.org/abs/2510.03198)
 
 [2025-06] ✅[VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory](https://arxiv.org/abs/2506.18903)
 
 [2025-06] ❌️[Video World Models with Long-term Spatial Memory](https://arxiv.org/abs/2506.05284)
 
-[2026-01] ✅[StableWorld: Towards Stable and Consistent Long Interactive Video Generation](https://arxiv.org/abs/2601.15281)
-
-[2026-02] ✅🌟(w/o Pose Memory)[Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory](https://arxiv.org/abs/2602.02393)
-
-[2026-02] ✅[AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories](https://arxiv.org/abs/2602.14941)
+[2025-06] ✅[DeepVerse: 4D Autoregressive Video Generation as a World Model](https://arxiv.org/abs/2506.01103)
 
 [2025-05] ✅[Learning World Models for Interactive Video Generation](https://arxiv.org/abs/2505.21996)
 
-[2025-10] ❌️[Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft](https://arxiv.org/abs/2510.03198)
-
-[2025-06] ✅[DeepVerse: 4D Autoregressive Video Generation as a World Model](https://arxiv.org/abs/2506.01103)
-
 [2025-04] ✅[WorldMem: Long-term Consistent World Simulation with Memory](https://arxiv.org/abs/2504.12369)
-
-[2026-03] ❌️[MosaicMem: Hybrid Spatial Memory for Controllable Video World Models](https://arxiv.org/abs/2603.17117)
 
 *   ### Dynamic Memory
     
 
-[2026-01] ✅🌟(First out-of-view Dynamic Memory)[Flow Equivariant World Models: Structured Dynamics Outside the Field of View](https://arxiv.org/abs/2601.01075)
-
 [2026-03] ✅🌟(First out-of-view Event Dynamic Memory)[LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models](https://arxiv.org/abs/2603.07145)
 
 [2026-02] ✅🌟(First multiplayer Minecraft World Model)[Solaris: Building a Multiplayer Video World Model in Minecraft](https://arxiv.org/abs/2602.22208)
+
+[2026-01] ✅🌟(First out-of-view Dynamic Memory)[Flow Equivariant World Models: Structured Dynamics Outside the Field of View](https://arxiv.org/abs/2601.01075)
 
 [2026-04] ✅[MultiWorld: Scalable Multi-Agent Multi-View Video World Models](https://arxiv.org/abs/2604.18564)
 
@@ -220,11 +220,11 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 ## Post-Training
 
-[2025-05] ✅[RLVR-World: Training World Models with Reinforcement Learning](https://arxiv.org/abs/2505.13934)
+[2026-04] ✅[World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://arxiv.org/abs/2604.24764)
 
 [2026-02] ✅[WorldCompass: Reinforcement Learning for Long-Horizon World Models](https://arxiv.org/abs/2602.09022)
 
-[2026-04] ✅[World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://arxiv.org/abs/2604.24764)
+[2025-05] ✅[RLVR-World: Training World Models with Reinforcement Learning](https://arxiv.org/abs/2505.13934)
 
 
 
