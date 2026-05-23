@@ -250,7 +250,7 @@ If you find this repository useful, please consider citing this list:
 ```bash
 @misc{ye2026awesomeiwm,
     title = {Awesome-Interactive-World-Model},
-    author = {Yixuan Ye and {Awesome-Interactive-World-Model Contributors}},
+    author = {Yixuan Ye and Ruiqi Wu},
     journal = {GitHub repository},
     url = {https://github.com/EasonTuT/Awesome-Interactive-World-Model},
     year = {2026},
