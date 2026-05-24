@@ -126,9 +126,15 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 **[2024-07] ✅🌟(Training techniques)[Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/abs/2407.01392)**
 
-[2026-05] ✅ [Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation](https://arxiv.org/abs/2605.15141)
+[2026-05] ✅[Q-ARVD: Quantizing Autoregressive Video Diffusion Models](https://arxiv.org/abs/2605.21072)
+
+[2026-05] ❌️[DySink: Dynamic Frame Sinks for Autoregressive Long Video Generation](https://arxiv.org/abs/2605.21028)
+
+[2026-05] ✅[FlowLong: Inference-time Long Video Generation via Manifold-constrained Tweedie Matching](https://arxiv.org/abs/2605.20910)
 
 [2026-05] ✅[LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://arxiv.org/abs/2605.18739)
+
+[2026-05] ✅ [Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation](https://arxiv.org/abs/2605.15141)
 
 [2026-03] ✅[Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion](https://arxiv.org/html/2603.13405v1)
 
@@ -168,6 +174,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 **[2026-02] ✅🌟(w/o Pose Memory)[Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory](https://arxiv.org/abs/2602.02393)**
 
 **[2025-06] ❌️🌟(w/ Pose FOV overlap retrieval Memory)[Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](https://arxiv.org/abs/2506.03141)**
+
+[2026-05] ✅[WorldKV: Efficient World Memory with World Retrieval and Compression](https://arxiv.org/abs/2605.22718)
 
 [2026-03] ❌️[MosaicMem: Hybrid Spatial Memory for Controllable Video World Models](https://arxiv.org/abs/2603.17117)
 
