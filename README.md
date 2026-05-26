@@ -6,6 +6,18 @@
 👉 **Recommended: View the [paper list on our website](https://easontut.github.io/Awesome-Interactive-World-Model/) for a better browsing experience.**
 </div>
 
+---
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+    <td align="center" style="border:none;">🌟 <b>Classic</b></td>
+    <td align="center" style="border:none;">✅ <b>Open Source</b></td>
+    <td align="center" style="border:none;">❌️ <b>Not Open Source</b></td>
+  </tr>
+</table>
+
+**Badge Guide.** `🌟` marks representative or category-defining work, with the entire paper entry bolded. `✅` indicates that public resources such as code, data, model weights, demos, or an official project page are available. `❌️` indicates that no public implementation or resource has been found yet. The `[YYYY-MM]` prefix indicates the arXiv submission month when parsed from an arXiv identifier, or a known release/update month for non-arXiv resources.
+
+---
 ## 🚩 News & Updates
 _Major updates and announcements are shown below. Scroll for full timeline._
 
@@ -54,15 +66,6 @@ _Major updates and announcements are shown below. Scroll for full timeline._
   - 📝 [Citation](#citation)
 
 ---
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <td align="center" style="border:none;">🌟 <b>Classic</b></td>
-    <td align="center" style="border:none;">✅ <b>Open Source</b></td>
-    <td align="center" style="border:none;">❌️ <b>Not Open Source</b></td>
-  </tr>
-</table>
-
-**Badge Guide.** `🌟` marks representative or category-defining work, with the entire paper entry bolded. `✅` indicates that public resources such as code, data, model weights, demos, or an official project page are available. `❌️` indicates that no public implementation or resource has been found yet. The `[YYYY-MM]` prefix indicates the arXiv submission month when parsed from an arXiv identifier, or a known release/update month for non-arXiv resources.
 
 ## General World Model
 
