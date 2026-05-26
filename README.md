@@ -17,6 +17,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 ## 🔥 Recent Paper Updates
 
+[2026-05-25] ❌️[Teaching Video Generators to Remember: Eliciting Dynamic Memory for Out-of-Sight State Evolution](https://arxiv.org/abs/2605.25333)
+
 [2026-05-22] ✅[SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models](https://arxiv.org/abs/2605.23345)
 
 [2026-05-21] ✅[WorldKV: Efficient World Memory with World Retrieval and Compression](https://arxiv.org/abs/2605.22718)
@@ -34,8 +36,6 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 [2026-05-14] ✅[Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video](https://arxiv.org/abs/2605.15182)
 
 [2026-05-14] ✅[SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer](https://arxiv.org/abs/2605.15178)
-
-[2026-05-14] ✅[Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation](https://arxiv.org/abs/2605.15141)
 
 ---
 ## Overview
@@ -226,6 +226,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 **[2026-02] ✅🌟(First multiplayer Minecraft World Model)[Solaris: Building a Multiplayer Video World Model in Minecraft](https://arxiv.org/abs/2602.22208)**
 
 **[2026-01] ✅🌟(First out-of-view Dynamic Memory)[Flow Equivariant World Models: Structured Dynamics Outside the Field of View](https://arxiv.org/abs/2601.01075)**
+
+[2026-05] ❌️[Teaching Video Generators to Remember: Eliciting Dynamic Memory for Out-of-Sight State Evolution](https://arxiv.org/abs/2605.25333)
 
 [2026-04] ✅[MultiWorld: Scalable Multi-Agent Multi-View Video World Models](https://arxiv.org/abs/2604.18564)
 
