@@ -29,6 +29,10 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 ## 🔥 Recent Paper Updates
 
+**[2026-05-25] ✅🌟(Multi-turn interactive world model evaluation)[WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation](https://arxiv.org/abs/2605.25874)**
+
+[2026-05-25] ✅[E3C: Video Generation with 3D Environmental Memory and Ego-Exo Human Pose Control](https://arxiv.org/abs/2605.26316)
+
 [2026-05-25] ❌️[Teaching Video Generators to Remember: Eliciting Dynamic Memory for Out-of-Sight State Evolution](https://arxiv.org/abs/2605.25333)
 
 [2026-05-22] ✅[SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models](https://arxiv.org/abs/2605.23345)
@@ -44,10 +48,6 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 [2026-05-19] ✅[LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://arxiv.org/abs/2605.18739)
 
 [2026-05-14] ✅[ReactiveGWM: Steering NPC in Reactive Game World Models](https://arxiv.org/abs/2605.15256)
-
-[2026-05-14] ✅[Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video](https://arxiv.org/abs/2605.15182)
-
-[2026-05-14] ✅[SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer](https://arxiv.org/abs/2605.15178)
 
 ---
 ## Overview
@@ -109,6 +109,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 
 ## Benchmark
+
+**[2026-05] ✅🌟(Multi-turn interactive world model evaluation)[WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation](https://arxiv.org/abs/2605.25874)**
 
 **[2026-02] ✅🌟(First Open Domain Memory & Action Benchmark)[MIND: Benchmarking Memory Consistency and Action Control in World Models](https://arxiv.org/abs/2602.08025)**
 
@@ -201,6 +203,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 **[2025-06] ❌️🌟(w/ Pose FOV overlap retrieval Memory)[Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](https://arxiv.org/abs/2506.03141)**
 
+[2026-05] ✅[E3C: Video Generation with 3D Environmental Memory and Ego-Exo Human Pose Control](https://arxiv.org/abs/2605.26316)
+
 [2026-05] ✅[WorldKV: Efficient World Memory with World Retrieval and Compression](https://arxiv.org/abs/2605.22718)
 
 [2026-03] ❌️[MosaicMem: Hybrid Spatial Memory for Controllable Video World Models](https://arxiv.org/abs/2603.17117)
@@ -243,6 +247,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 **[2025-03] ✅🌟(No longer limited to fixed controls)[AdaWorld: Learning Adaptable World Models with Latent Actions](https://arxiv.org/abs/2503.18938)**
 
 **[2025-01] ❌️🌟(Action control from games)[GameFactory: Creating New Games with Generative Interactive Videos](https://arxiv.org/abs/2501.08325)**
+
+[2026-05] ✅[E3C: Video Generation with 3D Environmental Memory and Ego-Exo Human Pose Control](https://arxiv.org/abs/2605.26316)
 
 [2026-05] ✅[SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models](https://arxiv.org/abs/2605.23345)
 
