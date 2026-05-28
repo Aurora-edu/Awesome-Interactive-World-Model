@@ -29,6 +29,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 ## 🔥 Recent Paper Updates
 
+[2026-05-27] ❌️[Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players](https://arxiv.org/abs/2605.28816)
+
 **[2026-05-25] ✅🌟(Multi-turn interactive world model evaluation)[WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation](https://arxiv.org/abs/2605.25874)**
 
 [2026-05-25] ✅[E3C: Video Generation with 3D Environmental Memory and Ego-Exo Human Pose Control](https://arxiv.org/abs/2605.26316)
@@ -46,8 +48,6 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 [2026-05-20] ✅[FlowLong: Inference-time Long Video Generation via Manifold-constrained Tweedie Matching](https://arxiv.org/abs/2605.20910)
 
 [2026-05-19] ✅[LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://arxiv.org/abs/2605.18739)
-
-[2026-05-14] ✅[ReactiveGWM: Steering NPC in Reactive Game World Models](https://arxiv.org/abs/2605.15256)
 
 ---
 ## Overview
@@ -72,6 +72,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 **[2026-01] ✅🌟(Minute-level Memory)[Lingbot-World:Advancing Open-source World Models](https://arxiv.org/abs/2601.20540)**
 
 **[2025-08] ✅🌟(First open-source real-time interactive World Model)[Matrix-game 2.0: An open-source real-time and streaming interactive world model](https://arxiv.org/abs/2508.13009)**
+
+[2026-05] ❌️[Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players](https://arxiv.org/abs/2605.28816)
 
 [2026-05] ✅[SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer](https://arxiv.org/abs/2605.15178)
 
