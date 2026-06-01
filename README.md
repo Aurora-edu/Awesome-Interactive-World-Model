@@ -29,6 +29,12 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 ## 🔥 Recent Paper Updates
 
+[2026-05-29] ✅[Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models](https://arxiv.org/abs/2605.31158)
+
+[2026-05-29] ✅[DecMem: Towards Minute-Long Consistent World Generation with Decoupled Memory](https://arxiv.org/abs/2605.31336)
+
+[2026-05-28] ✅[OmniMem: Scalable and Adaptive Memory Retrieval for Long Video Generation](https://arxiv.org/abs/2605.30519)
+
 **[2026-05-28] ✅🌟(Full-stack open-source real-time interactive video world model framework)[minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models](https://arxiv.org/abs/2605.30263)**
 
 [2026-05-28] ✅[VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion](https://arxiv.org/abs/2605.30351)
@@ -42,12 +48,6 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 **[2026-05-25] ✅🌟(Multi-turn interactive world model evaluation)[WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation](https://arxiv.org/abs/2605.25874)**
 
 [2026-05-25] ✅[E3C: Video Generation with 3D Environmental Memory and Ego-Exo Human Pose Control](https://arxiv.org/abs/2605.26316)
-
-[2026-05-25] ❌️[Teaching Video Generators to Remember: Eliciting Dynamic Memory for Out-of-Sight State Evolution](https://arxiv.org/abs/2605.25333)
-
-[2026-05-22] ✅[SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models](https://arxiv.org/abs/2605.23345)
-
-[2026-05-21] ✅[WorldKV: Efficient World Memory with World Retrieval and Compression](https://arxiv.org/abs/2605.22718)
 
 ---
 ## Overview
@@ -74,6 +74,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 **[2026-01] ✅🌟(Minute-level Memory)[Lingbot-World:Advancing Open-source World Models](https://arxiv.org/abs/2601.20540)**
 
 **[2025-08] ✅🌟(First open-source real-time interactive World Model)[Matrix-game 2.0: An open-source real-time and streaming interactive world model](https://arxiv.org/abs/2508.13009)**
+
+[2026-05] ✅[Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models](https://arxiv.org/abs/2605.31158)
 
 [2026-05] ❌️[Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players](https://arxiv.org/abs/2605.28816)
 
@@ -158,6 +160,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 **[2024-07] ✅🌟(Training techniques)[Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/abs/2407.01392)**
 
+[2026-05] ✅[DecMem: Towards Minute-Long Consistent World Generation with Decoupled Memory](https://arxiv.org/abs/2605.31336)
+
 [2026-05] ✅[VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion](https://arxiv.org/abs/2605.30351)
 
 [2026-05] ✅[AdaState: Self-Evolving Anchors for Streaming Video Generation](https://arxiv.org/abs/2605.30349)
@@ -212,6 +216,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 **[2026-02] ✅🌟(w/o Pose Memory)[Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory](https://arxiv.org/abs/2602.02393)**
 
 **[2025-06] ❌️🌟(w/ Pose FOV overlap retrieval Memory)[Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](https://arxiv.org/abs/2506.03141)**
+
+[2026-05] ✅[OmniMem: Scalable and Adaptive Memory Retrieval for Long Video Generation](https://arxiv.org/abs/2605.30519)
 
 [2026-05] ✅[E3C: Video Generation with 3D Environmental Memory and Ego-Exo Human Pose Control](https://arxiv.org/abs/2605.26316)
 
