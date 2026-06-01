@@ -29,6 +29,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 ## 🔥 Recent Paper Updates
 
+**[2026-06-01] ✅🌟(Omnimodal world model for understanding, generation, simulation, and action)[Cosmos 3: Omnimodal World Models for Physical AI](https://research.nvidia.com/labs/cosmos-lab/cosmos3/technical-report.pdf)**
+
 [2026-05-29] ✅[Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models](https://arxiv.org/abs/2605.31158)
 
 [2026-05-29] ✅[DecMem: Towards Minute-Long Consistent World Generation with Decoupled Memory](https://arxiv.org/abs/2605.31336)
@@ -46,8 +48,6 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 [2026-05-27] ❌️[Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players](https://arxiv.org/abs/2605.28816)
 
 **[2026-05-25] ✅🌟(Multi-turn interactive world model evaluation)[WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation](https://arxiv.org/abs/2605.25874)**
-
-[2026-05-25] ✅[E3C: Video Generation with 3D Environmental Memory and Ego-Exo Human Pose Control](https://arxiv.org/abs/2605.26316)
 
 ---
 ## Overview
@@ -68,6 +68,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 ---
 
 ## General World Model
+
+**[2026-06] ✅🌟(Omnimodal world model for understanding, generation, simulation, and action)[Cosmos 3: Omnimodal World Models for Physical AI](https://research.nvidia.com/labs/cosmos-lab/cosmos3/technical-report.pdf)**
 
 **[2026-05] ✅🌟(Full-stack open-source real-time interactive video world model framework)[minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models](https://arxiv.org/abs/2605.30263)**
 
