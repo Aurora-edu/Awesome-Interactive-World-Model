@@ -31,6 +31,10 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 **[2026-06-01] ✅🌟(Omnimodal world model for understanding, generation, simulation, and action)[Cosmos 3: Omnimodal World Models for Physical AI](https://research.nvidia.com/labs/cosmos-lab/cosmos3/technical-report.pdf)**
 
+[2026-06-01] ✅[Geometry-Aware Implicit Memory for Video World Models](https://arxiv.org/abs/2606.02436)
+
+[2026-05-31] ✅[Towards Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends](https://arxiv.org/abs/2606.01164)
+
 [2026-05-29] ✅[Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models](https://arxiv.org/abs/2605.31158)
 
 [2026-05-29] ✅[DecMem: Towards Minute-Long Consistent World Generation with Decoupled Memory](https://arxiv.org/abs/2605.31336)
@@ -44,10 +48,6 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 [2026-05-28] ✅[AdaState: Self-Evolving Anchors for Streaming Video Generation](https://arxiv.org/abs/2605.30349)
 
 [2026-05-28] ❌️[Future Forcing: Future-aware Training-free KV Cache Policy for Autoregressive Video Generation](https://arxiv.org/abs/2605.30083)
-
-[2026-05-27] ❌️[Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players](https://arxiv.org/abs/2605.28816)
-
-**[2026-05-25] ✅🌟(Multi-turn interactive world model evaluation)[WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation](https://arxiv.org/abs/2605.25874)**
 
 ---
 ## Overview
@@ -219,6 +219,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 **[2025-06] ❌️🌟(w/ Pose FOV overlap retrieval Memory)[Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](https://arxiv.org/abs/2506.03141)**
 
+[2026-06] ✅[Geometry-Aware Implicit Memory for Video World Models](https://arxiv.org/abs/2606.02436)
+
 [2026-05] ✅[OmniMem: Scalable and Adaptive Memory Retrieval for Long Video Generation](https://arxiv.org/abs/2605.30519)
 
 [2026-05] ✅[E3C: Video Generation with 3D Environmental Memory and Ego-Exo Human Pose Control](https://arxiv.org/abs/2605.26316)
@@ -298,6 +300,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 ## Survey
 **[2026-04] ✅🌟(Defines advanced world models around perception, interaction, and long-term memory, and introduces OpenWorldLib as a unified inference framework.) [OpenWorldLib: A Unified Codebase and Definition of Advanced World Models](https://arxiv.org/abs/2604.04707)**
+
+[2026-05] ✅[Towards Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends](https://arxiv.org/abs/2606.01164)
 
 [2026-05] ❌️[World Action Models: The Next Frontier in Embodied AI](https://arxiv.org/abs/2605.12090)
 
