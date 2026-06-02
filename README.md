@@ -146,6 +146,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 ## Long Video Generation
 **[2026-05] ✅ 🌟(First architecture supporting arbitrary step OPD) [AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation](https://arxiv.org/abs/2605.13724)**
 
+**[2026-03] ✅🌟(Scale up Real-Time model to 14B)[Helios: Real Real-Time Long Video Generation Model](https://arxiv.org/abs/2603.04379)**
+
 **[2026-02] ✅🌟(ODE perspective)[Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation](https://arxiv.org/abs/2602.02214)**
 
 **[2025-12] ❌️🌟(Compression recovery training)[Pretraining Frame Preservation in Autoregressive Video Memory Compression](https://arxiv.org/abs/2512.23851)**
