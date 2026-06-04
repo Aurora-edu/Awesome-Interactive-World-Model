@@ -29,7 +29,10 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 ## 🔥 Recent Paper Updates
 
+[2026-06-02] ❌️[MetaWorld: Scaling Multi-Agent Video World Model from Single-view Video Data](https://arxiv.org/abs/2606.02753)
+
 **[2026-06-01] ✅🌟(Omnimodal world model for understanding, generation, simulation, and action)[Cosmos 3: Omnimodal World Models for Physical AI](https://research.nvidia.com/labs/cosmos-lab/cosmos3/technical-report.pdf)**
+
 
 [2026-06-01] ✅[Geometry-Aware Implicit Memory for Video World Models](https://arxiv.org/abs/2606.02436)
 
@@ -47,12 +50,11 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 [2026-05-28] ✅[AdaState: Self-Evolving Anchors for Streaming Video Generation](https://arxiv.org/abs/2605.30349)
 
-[2026-05-28] ❌️[Future Forcing: Future-aware Training-free KV Cache Policy for Autoregressive Video Generation](https://arxiv.org/abs/2605.30083)
-
 ---
 ## Overview
   - 🔥 [Recent Paper Updates](#recent-paper-updates)
   - 🌐 [General World Model](#general-world-model)
+  - 🤝 [Multi-Agent World Model](#multi-agent-world-model)
   - 📊 [Benchmark](#benchmark)
   - 💾 [Dataset](#dataset)
   - 🎬 [Long Video Generation](#long-video-generation)
@@ -78,8 +80,6 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 **[2025-08] ✅🌟(First open-source real-time interactive World Model)[Matrix-game 2.0: An open-source real-time and streaming interactive world model](https://arxiv.org/abs/2508.13009)**
 
 [2026-05] ✅[Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models](https://arxiv.org/abs/2605.31158)
-
-[2026-05] ❌️[Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players](https://arxiv.org/abs/2605.28816)
 
 [2026-05] ✅[SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer](https://arxiv.org/abs/2605.15178)
 
@@ -114,6 +114,15 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 [2025-06] ✅[Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition](https://arxiv.org/abs/2506.17201)
 
 [2024-02] ❌️[Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391)
+
+
+## Multi-Agent World Model
+
+[2026-06] ❌️[MetaWorld: Scaling Multi-Agent Video World Model from Single-view Video Data](https://arxiv.org/abs/2606.02753)
+
+[2026-05] ❌️[Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players](https://arxiv.org/abs/2605.28816)
+
+[2026-04] ✅[MultiWorld: Scalable Multi-Agent Multi-View Video World Models](https://arxiv.org/abs/2604.18564)
 
 
 ## Benchmark
@@ -257,8 +266,6 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 **[2026-01] ✅🌟(First out-of-view Dynamic Memory)[Flow Equivariant World Models: Structured Dynamics Outside the Field of View](https://arxiv.org/abs/2601.01075)**
 
 [2026-05] ❌️[Teaching Video Generators to Remember: Eliciting Dynamic Memory for Out-of-Sight State Evolution](https://arxiv.org/abs/2605.25333)
-
-[2026-04] ✅[MultiWorld: Scalable Multi-Agent Multi-View Video World Models](https://arxiv.org/abs/2604.18564)
 
 [2026-03] ✅[Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models](https://arxiv.org/pdf/2603.25716)
 
