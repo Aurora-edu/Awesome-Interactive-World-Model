@@ -29,6 +29,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 ## 🔥 Recent Paper Updates
 
+[2026-06-05] ✅[Streaming Video Generation with Streaming Force Control](https://arxiv.org/abs/2606.07508)
+
 [2026-06-04] ✅[RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling](https://arxiv.org/abs/2606.06309)
 
 [2026-06-03] ✅[Echo-Infinity: Learning Evolving Memory for Real-Time Infinite Video Generation](https://arxiv.org/abs/2606.04527)
@@ -45,8 +47,6 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 [2026-05-29] ✅[Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models](https://arxiv.org/abs/2605.31158)
 
 [2026-05-29] ✅[DecMem: Towards Minute-Long Consistent World Generation with Decoupled Memory](https://arxiv.org/abs/2605.31336)
-
-[2026-05-28] ✅[OmniMem: Scalable and Adaptive Memory Retrieval for Long Video Generation](https://arxiv.org/abs/2605.30519)
 
 **[2026-05-28] ✅🌟(Full-stack open-source real-time interactive video world model framework)[minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models](https://arxiv.org/abs/2605.30263)**
 
@@ -280,6 +280,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 **[2025-03] ✅🌟(No longer limited to fixed controls)[AdaWorld: Learning Adaptable World Models with Latent Actions](https://arxiv.org/abs/2503.18938)**
 
 **[2025-01] ❌️🌟(Action control from games)[GameFactory: Creating New Games with Generative Interactive Videos](https://arxiv.org/abs/2501.08325)**
+
+[2026-06] ✅[Streaming Video Generation with Streaming Force Control](https://arxiv.org/abs/2606.07508)
 
 [2026-05] ✅[E3C: Video Generation with 3D Environmental Memory and Ego-Exo Human Pose Control](https://arxiv.org/abs/2605.26316)
 
